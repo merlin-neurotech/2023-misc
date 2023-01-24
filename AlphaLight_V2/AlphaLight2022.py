@@ -16,7 +16,7 @@ from phue import Bridge #HUE
 import matplotlib.pyplot as plt
 import matplotlib.animation as animation
 from matplotlib import style
-from AlphaVisualizer import AlphaPlot
+from AlphaLight_V2.AlphaVisualizer import AlphaPlot
 
 # Function to set the color of the light
 def setColor(x, y): 
